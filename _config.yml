@@ -7,17 +7,17 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://xiwill.org" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Zhang Xi
-twitter:
-  username: masonsuyan
+#twitter:
+#  username: masonsuyan
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'category'
 
 # Social account
-twitter: masonsuyan
+#twitter: masonsuyan
 # weibo:    ID
-github: suyan
+github: xiwill
 # codepen:  username
 # dribbble: username
 
@@ -32,7 +32,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-54767140-2
-  url: yansu.org
+  url: xiwill.com
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
