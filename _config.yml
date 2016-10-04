@@ -1,12 +1,12 @@
 # Site settings
-title: "Zhang Xi's Blog"
+title: "张稀的博客"
 email: zhangxi.will@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  "Zhang Xi's Tech Blog"
+  "张稀的技术博客"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://xiwill.org" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Zhang Xi
+author: 张稀
 #twitter:
 #  username: masonsuyan
 
@@ -22,7 +22,7 @@ github: xiwill
 # dribbble: username
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+avatar: http://7xs91y.com1.z0.glb.clouddn.com/zhouyu.jpg
 favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
